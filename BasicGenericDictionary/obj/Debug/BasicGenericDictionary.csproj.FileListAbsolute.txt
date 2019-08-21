@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\BasicGenericDictionary\BasicGenericDictionary\bin\Debug\BasicGenericDictionary.exe.config
+C:\Users\usr\source\repos\BasicGenericDictionary\BasicGenericDictionary\bin\Debug\BasicGenericDictionary.exe
+C:\Users\usr\source\repos\BasicGenericDictionary\BasicGenericDictionary\bin\Debug\BasicGenericDictionary.pdb
+C:\Users\usr\source\repos\BasicGenericDictionary\BasicGenericDictionary\obj\Debug\BasicGenericDictionary.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\BasicGenericDictionary\BasicGenericDictionary\obj\Debug\BasicGenericDictionary.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\BasicGenericDictionary\BasicGenericDictionary\obj\Debug\BasicGenericDictionary.exe
+C:\Users\usr\source\repos\BasicGenericDictionary\BasicGenericDictionary\obj\Debug\BasicGenericDictionary.pdb
